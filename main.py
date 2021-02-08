@@ -18,4 +18,4 @@ class Vreme:
         self.driver.find_element_by_xpath(
             "/html/body/div[2]/div[2]/form/div[2]/div[1]/div[2]/div[2]/div[2]/center/input[1]").submit()
 
-naruto=Vreme("Nis")
+naruto=Vreme("Naruto")
